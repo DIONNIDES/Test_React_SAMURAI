@@ -1,0 +1,5 @@
+.footer{
+    display: grid;
+    grid-area: f;
+    background-color: rgb(86, 46, 122);
+}

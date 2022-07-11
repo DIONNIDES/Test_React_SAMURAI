@@ -1,0 +1,5 @@
+.navbarWrap{
+    display: grid;
+    grid-area: n;
+    background-color: rgb(197, 31, 31);
+};
